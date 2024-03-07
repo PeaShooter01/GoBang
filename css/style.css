@@ -1,0 +1,10 @@
+canvas
+{
+    display: block;
+    box-shadow: -2px -2px 2px #efefef, 5px 5px 5px #b9b9b9;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-left: -450px;
+    margin-top: -450px;
+}
